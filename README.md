@@ -1,0 +1,1 @@
+![Test Status](https://github.com/driftK1ng/ci-cd-pr2/actions/workflows/ci.yml/badge.svg)
